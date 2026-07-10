@@ -1,8 +1,13 @@
 
-Aquí tienes el archivo `README.md` actualizado con las rutas de las imágenes apuntando a la carpeta `img`, tomando como referencia los nombres asignados en la imagen que proporcionaste. He añadido también la imagen de la topología y las capturas de las pruebas en la sección 4.
-
-
 # Documentación Técnica: Implementación de Seguridad Perimetral y Control de Acceso en FortiGate
+<div align="center">
+
+![Fortinet](https://img.shields.io/badge/Fortinet-FortiOS_7.0-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![PNETLab](https://img.shields.io/badge/Entorno-PNETLab-0056D2?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Cliente-Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Servidor-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 **Estudiante:** Zoe Daniela Bobonagua Acevedo  
 **Matrícula:** 2025-0839  
